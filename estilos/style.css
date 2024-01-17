@@ -31,5 +31,5 @@ section#telefone{
     /* Essas linhas de cima fazem com que a caixa do celular fique centralizada no meio da tela, é necessário que a caixa de fora (main) possua o posicionamento relativo */
     height: 627px;
     width: 311px;
-    background: url(../imagens/frame-iphone.png) no-repeatk ;    /* Nessa linha adcionei a imagem do telefone, a tag "no repeat" impede que a imagem do telefone se repita */
+    background: url(../imagens/frame-iphone.png) no-repeat ;    /* Nessa linha adcionei a imagem do telefone, a tag "no repeat" impede que a imagem do telefone se repita */
 }
