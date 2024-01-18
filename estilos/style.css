@@ -41,3 +41,15 @@ iframe#tela{
     width: 269px;
     height: 471px;
 }
+
+section#redes-sociais img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px black;
+    box-sizing: border-box; /* Essa tag me ajuda na interatividade do hover, pois não permite que as caixas das redes sociais se mexam quando o mouse passe por cima de cada uma*/
+}
+
+section#redes-sociais img:hover{
+    border: 2px solid white; /* Essa configuração é para quando o mouse passar pelo ícone o ícone fique mais interativo*/
+}
