@@ -26,7 +26,7 @@ main{
 section#telefone{
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 78%;
     transform: translate(-50%, -50%);
     /* Essas linhas de cima fazem com que a caixa do celular fique centralizada no meio da tela, é necessário que a caixa de fora (main) possua o posicionamento relativo */
     height: 627px;
@@ -43,7 +43,7 @@ iframe#tela{
 }
 
 section#redes-sociais img{
-    width: 30px;
+    width: 3vw;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
