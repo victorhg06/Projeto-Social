@@ -1,0 +1,30 @@
+@charset "UTF-8"
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+
+img{
+    width: 100vw;   /* Essa config serviu para que a largura da foto ocupasse toda a tela do dentro do celular */
+}
+
+a{
+    display: block;
+    background-color: darkred;
+    color: white;
+    padding: 20px; ;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a:hover{
+    background-color: red;
+}
